@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@types/js-yaml": "^4.0.5",
-    "aws-cdk-lib": "2.103.1",
+    "aws-cdk-lib": "2.88.0",
     "aws-sdk": "^2.1484.0",
     "constructs": "^10.3.0",
     "js-yaml": "^4.1.0",
